@@ -1,0 +1,5 @@
+# The versions listed below were used in development. 
+# Other versions may work fine, but these are known to be compatible. 
+matplotlib==3.7.1 
+numpy==1.24.3 
+scipy==1.10.1

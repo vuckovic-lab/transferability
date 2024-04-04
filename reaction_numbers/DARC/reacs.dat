@@ -1,0 +1,14 @@
+ethene	butadiene	P1
+ethine	butadiene	P2
+ethene	cpdiene	P3
+ethine	cpdiene	P4
+ethene	chdiene	P5
+ethine	chdiene	P6
+furane	malein	P7
+furane	malein	P7X
+furane	maleinNH	P8
+furane	maleinNH	P8X
+cpdiene	malein	P9
+cpdiene	malein	P9X
+cpdiene	maleinNH	P10
+cpdiene	maleinNH	P10X

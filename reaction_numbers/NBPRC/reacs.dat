@@ -1,0 +1,12 @@
+nh3	bh3	nh3-bh3
+nh3-bh3	nh2-bh2	H2
+nh2-bh2	nh-bh	H2
+nh2-bh2	cbut
+nh2-bh2	bz	H2
+nh2-bh2	ch
+BH3PH3	bh3	PH3
+K_H	BH3PH3	H2
+BF3PMe3	BF3	PMe3
+K_F	BF3PMe3	H2
+BCl3PMe3	BCl3	PMe3
+K_Cl	BCl3PMe3	H2

@@ -1,0 +1,51 @@
+C6H12O	H2O2	ethyl-g-butyrolactone	H2O
+C4H9NH2	H2O2	C4H9NO2	H2O
+C4H9CHO	H2O2	C4H9CO2H	H2O
+C4H9SO2H	H2O2	C4H9SO3H	H2O
+trans-2-pentene	H2O2	pentanediol
+toluene	H2	methylcyclohexane
+pentanol	H2O2	C4H9CHO	H2O
+C2H5O_2	C2H4OH_2
+3-hexene	H2O2	diethyloxirane	H2O
+S_C2H5_2	H2O2	OS_C2H5_2	H2O
+ax-methylcyclohexene	eq-methylcyclohexene
+hexyne	H2	1-hexene
+2-pentyne	H2	trans-2-pentene
+2-pentyne	H2	cis-2-pentene
+2-pentyne	HCN	C2H5CCNCHCH3
+1-hexene	H2	n-hexane
+1-pentyne	H2O	C4H9CHO
+C3H7NH2	COCl2	CO_2NHC3H7_2	HCl
+eq-methylcyclohexene	H2	methylcyclohexane
+trans-2-pentene	Cl2	C2H5CClCHCH3	HCl
+2-pentyne	HCl	C2H5CClCHCH3
+1-pentene	ethene	Heptene
+C4H9CHO	H2	pentanol
+dimethyloxirane	H2O	butanediol
+methylpyridine	H2	dimethylpyrrole
+C4H9NCO	NH3	C4H9NHCONH2
+C3H7CN	H2O	C3H7CONH2
+propylfuran	H2S	propylthiophene	H2O
+diethylamine	CO	HCON_C2H5_2
+C3H7NCO	H2O	C3H7NH2	CO2
+C3H7CO2C2H3	ethyl-g-butyrolactone
+H2C-C5-CH2	heptatriyne
+methylpyrazole	methylimidazole
+1-pentene	H2O	pentanol
+methylfuran	NH3	methylpyrrole	H2O
+C3H7CHCO	H2CO	propyloxirane	CO
+pentanol	CO	HCO2C5H11
+C3H7S_2	H2	C3H7SH
+pentadiene	ethene	ax-methylcyclohexene
+hexandione	methyl-d-valerolactone
+C2H5CO2H	methanol	C2H5CO2CH3	H2O
+C4H9ONO	C4H9NO2
+n-hexane	neo-hexane
+methylcyclohexa-1,4-diene	methylcyclohexa-1,3-diene
+1-pentene	trans-2-pentene
+toluene	H2	methylcyclohexa-1,3-diene
+cis-2-pentene	trans-2-pentene
+3-methylpentane	dimethylbutane
+C2H5CO2H	NH3	C2H5CONH2	H2O
+n-nonane	tetramethylpentane
+C3H7CO2H	NH3	C3H7CONH2	H2O

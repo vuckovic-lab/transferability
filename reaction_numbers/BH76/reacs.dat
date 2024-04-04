@@ -1,0 +1,76 @@
+h	n2o	n2ohts
+oh	n2	n2ohts
+h	hf	hfhts
+hf	h	hfhts
+h	hcl	hclhts
+hcl	h	hclhts
+h	ch3f	hfch3ts
+hf	ch3	hfch3ts
+h	f2	hf2ts
+hf	f	hf2ts
+ch3	clf	ch3fclts
+ch3f	cl	ch3fclts
+f-	ch3f	fch3fts
+ch3f	f-	fch3fts
+fch3fcomp	fch3fts
+fch3fcomp	fch3fts
+cl-	ch3cl	clch3clts
+ch3cl	cl-	clch3clts
+clch3clcomp	clch3clts
+clch3clcomp	clch3clts
+f-	ch3cl	fch3clts
+cl-	ch3f	fch3clts
+fch3clcomp1	fch3clts
+fch3clcomp2	fch3clts
+oh-	ch3f	hoch3fts
+ch3oh	f-	hoch3fts
+hoch3fcomp2	hoch3fts
+hoch3fcomp1	hoch3fts
+h	n2	hn2ts
+hn2	hn2ts
+h	co	hcots
+hco	hcots
+h	c2h4	c2h5ts
+C2H5	c2h5ts
+ch3	c2h4	c3h7ts
+c3h7	c3h7ts
+hcn	hcnts
+hnc	hcnts
+h	hcl	RKT01
+H2	cl	RKT01
+oh	H2	RKT02
+H2O	h	RKT02
+ch3	H2	RKT03
+CH4	h	RKT03
+oh	CH4	RKT04
+H2O	ch3	RKT04
+h	H2	RKT06
+h	H2	RKT06
+oh	NH3	RKT07
+H2O	NH2	RKT07
+hcl	ch3	RKT08
+cl	CH4	RKT08
+oh	C2H6	RKT09
+H2O	C2H5	RKT09
+f	H2	RKT10
+hf	h	RKT10
+O	CH4	RKT11
+oh	ch3	RKT11
+h	PH3	RKT12
+H2	PH2	RKT12
+h	oh	RKT14
+H2	O	RKT14
+h	H2S	RKT16
+H2	HS	RKT16
+O	hcl	RKT17
+oh	cl	RKT17
+NH2	ch3	RKT18
+NH	CH4	RKT18
+NH2	C2H5	RKT19
+NH	C2H6	RKT19
+C2H6	NH2	RKT20
+C2H5	NH3	RKT20
+NH2	CH4	RKT21
+NH3	ch3	RKT21
+C5H8	RKT22
+C5H8	RKT22

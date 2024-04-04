@@ -1,0 +1,21 @@
+1e	1p1	me
+1e	1p2	1p3
+2e	2p1	me
+2e	2p2	2p3
+3e	3p1	3p2
+3e	3int1
+3e	3int2
+3e	3int3
+3e	3p2	3p3
+4e	4p	me
+5e	5p	me
+6e	6int
+6e	6p1	ethylene
+6e	6p3	me
+6e	1p2	pr
+7e	7p1	7p2
+7e	7p3	7p4
+7e	7p5	7p6
+8e	8p1	ethylene
+9e	9p1	9p2
+10e	10p1	10p2
